@@ -1,10 +1,10 @@
-package com.jhassam;
+package com.jhassam.app;
 
 /**
  * Hello world!
  *
  */
-public class HelloWorld 
+public class App 
 {
     public static void main( String[] args )
     {
